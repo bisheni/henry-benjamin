@@ -1,0 +1,42 @@
+body {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+h1{
+	border: 2px solid;
+	border-color: blueviolet;
+	border-width: 6px;
+	border-radius: 25px;
+	background-color: yellow;
+	text-align: center;
+	font-size: 40px;
+	color: green;
+	font-style: italic;
+	padding-top: 20px;
+}
+ul li{
+	font-family: algerian;
+	font-size: 20px;
+	color: rgb(200, 48, 52);
+}
+ul li:hover {
+	color: black;
+
+}
+p{
+	background-color: green;
+	font-style:roboto;
+	color: yellow;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 30px;
+	border-radius: 20px;
+	color: rgb(238, 130, 238);
+}
+h2{
+	background-color: rgb(180, 180, 180);
+	color: hsl(0, 20%, 50%);
+}
+ol li:hover {
+	color: green;
+}
